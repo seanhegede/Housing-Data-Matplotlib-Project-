@@ -1,6 +1,6 @@
 # Housing Data Matplotlib Project on Jupyter Notebooks
 
-##Premise
+## Premise
 
 Welcome to my section one project on national real estate metrics, done using the matplotlib, numpy, and pandas libraries on Python via Jupyter Notebooks.
 
