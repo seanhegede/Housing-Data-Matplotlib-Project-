@@ -2,7 +2,7 @@
 
 ## Premise
 
-Welcome to my section one project on national real estate metrics, done using the matplotlib, numpy, and pandas libraries on Python via Jupyter Notebooks.
+Welcome to my section one project on national real estate metrics, done using the Matplotlib, Numpy, and Pandas libraries on Python via Jupyter Notebooks.
 
 Contained within are numerous types of graphs (bar, stacked bar, grouped bar, time-series, dual axis time-series, pie, histogram, stacked line plot, scatterplot, combination graphs) used to examine relationships between different housing-related variables. Leveraging matplotlib's PyPlot API, pivot tables, querying, aggregation, and filtering methods, I intend to provide key investment and marketing insights to drive business value across public and private sectors. 
 
